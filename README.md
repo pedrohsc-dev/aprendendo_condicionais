@@ -1,2 +1,2 @@
 # Aprendendo Condicionais em Python
-Este repositório terá alguns exemplos práticos de como usar condicionais em Python, feitos acompanhando as aulas do curso de [Python do Instituto FEA.dev](https://app.sapium.com.br/course/10359-fea-dev-usp-python-do-basico-ao-intermediario/about).
+Este repositório terá alguns exemplos práticos de como usar condicionais em Python, feitos acompanhando as aulas do [curso de Python do Instituto FEA.dev](https://app.sapium.com.br/course/10359-fea-dev-usp-python-do-basico-ao-intermediario/about).
